@@ -6,7 +6,7 @@
 body {
   margin: 0;
   padding: 40px 20px;
-  background: #f1f1f1;
+  background: #f7b284;
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -18,7 +18,7 @@ h1 {
 
 
 h1 span {
-  color: #ee8822;
+  color: #0400f1;
 }
 
 
@@ -76,7 +76,7 @@ body > p {
   border-radius: 8px;
   background: white;
   color: var(--cor);
-  font-size: 28px;
+  font-size: 34px;
   font-weight: bold;
 }
 
